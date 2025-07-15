@@ -1,0 +1,5 @@
+kurangnya dari pengembangan redesign ini
+1. perlu 2 foto untuk asisten, laki cewe
+2. fitur tutorial perlu dikejar
+3. card jadwal, foto asistennya itu dapat diklik dan memberikan informasi singkat asisten
+4. 
